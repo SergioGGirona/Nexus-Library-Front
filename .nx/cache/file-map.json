@@ -1,0 +1,174 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@angular/animations": "^17.0.0",
+    "@angular/cdk": "^17.1.0",
+    "@angular/common": "^17.0.0",
+    "@angular/compiler": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/material": "^17.1.0",
+    "@angular/platform-browser": "^17.0.0",
+    "@angular/platform-browser-dynamic": "^17.0.0",
+    "@angular/router": "^17.0.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.2",
+    "@angular-devkit/build-angular": "^17.1.0",
+    "@angular-eslint/builder": "17.2.1",
+    "@angular-eslint/eslint-plugin": "17.2.1",
+    "@angular-eslint/eslint-plugin-template": "17.2.1",
+    "@angular-eslint/schematics": "17.2.1",
+    "@angular-eslint/template-parser": "17.2.1",
+    "@angular/cli": "^17.0.10",
+    "@angular/compiler-cli": "^17.0.0",
+    "@types/jasmine": "~5.1.0",
+    "@typescript-eslint/eslint-plugin": "6.19.0",
+    "@typescript-eslint/parser": "6.19.0",
+    "eslint": "^8.56.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "typescript": "~5.2.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "15565288138683541492"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "13044518069027839699"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "5331566439708925252"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17038929134016848735"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "5336636969995539451"
+      },
+      {
+        "file": "README.md",
+        "hash": "7727917299339045130"
+      },
+      {
+        "file": "angular.json",
+        "hash": "10215117211987663655"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "9426668652481692549"
+      },
+      {
+        "file": "package.json",
+        "hash": "4604555220749670035"
+      },
+      {
+        "file": "projects/nexus-app/.eslintrc.json",
+        "hash": "14077119033149857099"
+      },
+      {
+        "file": "projects/nexus-app/karma.conf.js",
+        "hash": "6326085878286374665"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.component.html",
+        "hash": "8128988299734843550"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.component.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.component.spec.ts",
+        "hash": "17295291618567302640"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.component.ts",
+        "hash": "10576320703451494797"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.config.ts",
+        "hash": "10496557306432811410"
+      },
+      {
+        "file": "projects/nexus-app/src/app/app.routes.ts",
+        "hash": "12397496131277534773"
+      },
+      {
+        "file": "projects/nexus-app/src/app/components/searcher/searcher.component.html",
+        "hash": "8197701357043514447"
+      },
+      {
+        "file": "projects/nexus-app/src/app/components/searcher/searcher.component.scss",
+        "hash": "16826406239467808003"
+      },
+      {
+        "file": "projects/nexus-app/src/app/components/searcher/searcher.component.spec.ts",
+        "hash": "14768986401431905452"
+      },
+      {
+        "file": "projects/nexus-app/src/app/components/searcher/searcher.component.ts",
+        "hash": "3800509184433132640"
+      },
+      {
+        "file": "projects/nexus-app/src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "projects/nexus-app/src/assets/favicon.png",
+        "hash": "8470454453809825025"
+      },
+      {
+        "file": "projects/nexus-app/src/assets/nexusLogo.png",
+        "hash": "12359522167883908996"
+      },
+      {
+        "file": "projects/nexus-app/src/assets/nexusLogotipo.png",
+        "hash": "17578647470331585856"
+      },
+      {
+        "file": "projects/nexus-app/src/index.html",
+        "hash": "16326137696731427343"
+      },
+      {
+        "file": "projects/nexus-app/src/main.ts",
+        "hash": "4927504514031276065"
+      },
+      {
+        "file": "projects/nexus-app/src/styles.scss",
+        "hash": "5132179089902887074"
+      },
+      {
+        "file": "projects/nexus-app/tsconfig.app.json",
+        "hash": "14176067227322044330"
+      },
+      {
+        "file": "projects/nexus-app/tsconfig.spec.json",
+        "hash": "8046768446203215749"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "6830907402848794383"
+      }
+    ]
+  }
+}
